@@ -23,3 +23,8 @@ I am a software engineer passionate about building scalable backend systems, int
 ### 📫 Let's Connect!
 - **Email:** rohityadav34980@gmail.com
 - **LinkedIn:** [linkedin.com/in/rohit-yadav](https://www.linkedin.com/in/rohit-yadav-062628298/) 
+
+<div align="center">
+  <p>Thanks for visiting!</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RohitYadav34980.RohitYadav34980&" alt="visitors" />
+</div>
